@@ -1,0 +1,7 @@
+line1
+line2
+<-------Deleted-------->
+<-------Deleted-------->
+line5
+line6
+line7
